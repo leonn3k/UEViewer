@@ -50,6 +50,7 @@
 // UE2X
 #define UC1				1
 #define UC2				1
+#define SG1A				1		//Stargate SG-1: The Alliance
 
 // platforms
 #define SUPPORT_XBOX360	1		// XBox360 support
