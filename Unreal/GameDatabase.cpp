@@ -97,6 +97,10 @@ const GameInfo GListOfGames[] = {
 		G("Unreal Championship 2: The Liandri Conflict", uc2, GAME_UC2),
 #endif
 
+#if SG1A
+		G("Stargate SG-1: The Alliance", SG1A, GAME_SG1A),
+#endif
+
 	// Unreal engine 3
 #if UNREAL3
 		G("Unreal engine 3", ue3, GAME_UE3),
