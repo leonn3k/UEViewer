@@ -375,6 +375,7 @@ enum EGame
 
 	GAME_UE2X      = 0x0400000,
 		GAME_UC2,
+		GAME_SG1A,
 
 	GAME_UE3       = 0x0800000,
 		GAME_EndWar,
